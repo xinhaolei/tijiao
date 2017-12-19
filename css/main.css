@@ -415,7 +415,7 @@ ul.jia{
 }
 .swiper-slide.six .center{
     width: 100%;
-    bottom: 20%;
+    bottom: 15%;
     left: 5%;
     position: absolute;
     z-index: 9;
@@ -454,7 +454,6 @@ ul.jia{
 .swiper-slide.eight .center .jie{
     color: #fff;
     width: 100%;
-    background: #F1911A;
     position: absolute;
     height: 40px;
     line-height: 40px;
