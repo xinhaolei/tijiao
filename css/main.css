@@ -206,6 +206,7 @@ p.ani.fadeInLeft.animated{
     width: 60%;
     position: absolute;
     left: 20%;
+    line-height: 9vw;
 }
 .swiper-slide.three .center{
     position: absolute;
